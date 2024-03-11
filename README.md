@@ -1,5 +1,5 @@
-# Data Cleaning & Visualization 
-## COGS 402 Project: Rtvik Nambiar
+# Data Cleaning & Visualization Project 
+## by: Rtvik Nambiar
 Given details about various discussion threads, visualize the:
 - most active time period
 - most used words
